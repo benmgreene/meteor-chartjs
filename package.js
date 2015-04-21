@@ -1,5 +1,5 @@
 Package.describe({
-  name: "chartjs",
+  name: "benmgreene:chartjs",
   summary: 'Simple HTML5 Charts using the <canvas> tag'
 });
 
